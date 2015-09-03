@@ -1,0 +1,38 @@
+Question 1. 
+Ik heb alles gelezen en heb lang geleden c gebruikt, dit is handig om Java
+beter te begrijpen maar ik heb geen parate c kennis dus ik skip deze opdracht. 
+Question 2. 
+Het programma is bijgevoegd
+bij deelvraag 7 was de vraag hoe je uit een andere class een private variable kon bekijken
+Dit kan door een get functie uit die class aan te roepen. 
+Question 3. 
+Het programma is bijgevoegd. 
+Bij deelvraag 4 was de vraag waarom een methode wel compiled, ookal word hij niet gebruikt
+Dit is zodat een andere class later deze class kan gebruiken en wel die functie nog zou kunnen gebruiken
+Bij deelvraag 8 is het antwoord de string van de vlooi van de hond van angus. Dus dat is "My name is Pop".
+Question 4. 
+Het programma is bijgevoegd
+Geen vragen
+Question 5.
+Het programma is bijgevoegd
+Bij deeloprdacht 10 hebben ze het over de transfer methode, maar die staat niet in de javadocs
+Question 6.
+Het programma is bijgevoegd
+Question 7.
+Het programma is bijgevoegd
+Question 8.
+Er is nog een bug, ze kunnen geen negatieve machten nemen, dan komt er 0 uit.
+Het programma is bijgevoegd
+Question 9.
+Van part 1 en 2 zijn de programmas bijgevoegd
+Question 10. 
+Je krijgt een exeption als je van een paar characters een int wilt maken
+Het programma word geterminate
+Het programma is bijgevoegd
+Question 11.
+het aantal poten is 2 omdat dat door de animal class standaard word geset. 
+tweede vraag:  // Here an animal type reference now only points to the animal part of bird b, therfore it cannot fly
+
+
+
+
